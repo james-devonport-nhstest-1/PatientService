@@ -1,0 +1,7 @@
+﻿services:
+  patientservice.api:
+    image: patientservice.api
+    build:
+      context: .
+      dockerfile: PatientService.Api/Dockerfile
+
