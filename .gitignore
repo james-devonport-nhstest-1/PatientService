@@ -1,1 +1,12 @@
 .idea/
+PatientService.Api/bin/
+PatientService.Api/obj/
+Tests/PatientService.Application.Tests/obj/
+Tests/PatientService.Application.Tests/bin/
+PatientService.Infrastructure/obj/
+PatientService.Infrastructure/bin/
+PatientService.Domain/obj/
+PatientService.Domain/bin/
+PatientService.Application/obj/
+PatientService.Application/bin/
+PatientService.sln.DotSettings.user
